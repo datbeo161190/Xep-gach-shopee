@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Xếp Gạch Shopee</string>
+    <string name="accessibility_service_label">Auto Xếp Gạch - Tự Kéo Thả</string>
+    <string name="accessibility_service_description">Cho phép tool tự động vuốt và kéo thả khối gạch trên màn hình.</string>
+</resources>
